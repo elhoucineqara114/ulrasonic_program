@@ -42,7 +42,7 @@ Ce TP a pour but d’apprendre aux étudiants à :
 5. Distance calculée :
 
 \[
-\text{distance} = \frac{\text{durée (µs)} \times 0.0343}{2}
+distance = (durée (µs) x 0.0343) / 2
 \]
 
 - 0.0343 = vitesse du son convertie en **cm/µs**  
